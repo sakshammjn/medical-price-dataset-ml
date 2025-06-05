@@ -37,7 +37,6 @@ The dataset used is the **Medical Price Dataset** (`Medical Price Dataset.csv`),
 
 To run the notebook, ensure you have the following packages installed:
 
-```bash
 pip install numpy pandas matplotlib notebook
 
 ---
@@ -45,3 +44,5 @@ pip install numpy pandas matplotlib notebook
 **Author:** Saksham Mahajan  
 **Date:** June 2025  
 **Contact:** sakshammahajan2004@gmail.com
+
+
